@@ -18,7 +18,7 @@ public class Application {
     	}catch(Exception e){
     		
     	}
-    	return "Hello spring boot rest World";
+    	return "Hello spring boot rest World, edited by me";
     }
 
     public static void main(String[] args) {
